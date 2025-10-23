@@ -64,24 +64,8 @@ npm install
 npm run start
 ```
 
-La aplicación estará disponible en `http://localhost:3000`
 
-## Características
-
-- Listado de tareas con paginación
-- Búsqueda en tiempo real
-- Filtrado por estado
-- Diseño responsive
-- Interfaz moderna con Tailwind CSS
-
-## Tecnologías Utilizadas
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GabrieJimenez876/React-GabrielExamen)
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GabrieJimenez876/Examen2)
 
 
 # Instalacion
