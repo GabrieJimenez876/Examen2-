@@ -1,22 +1,23 @@
-# Examen2-
-
 # Bandeja de Tareas React + TypeScript
 
 Este proyecto es una aplicación de gestión de tareas construida con React, TypeScript y Tailwind CSS.
 
 ## Configuración Inicial de Git
 
-1. **Configurar usuario de Git** 
+1. **Configurar usuario de Git** (si es la primera vez):
 ```bash
 git config --global user.name "Tu Nombre"
-
-
 git config --global user.email "tu.email@ejemplo.com"
 ```
 
 2. **Inicializar el repositorio** (si aún no está inicializado):
 ```bash
 git init
+```
+
+3. **Vincular con el repositorio remoto**:
+```bash
+git remote add origin https://github.com/GabrieJimenez876/React-GabrielExamen.git
 ```
 
 ## Flujo de Trabajo con Git
@@ -30,8 +31,10 @@ git status
 
 2. **Agregar archivos al staging**:
 ```bash
+# Agregar todos los archivos
 git add .
 
+# O agregar archivos específicos
 git add nombre-archivo
 ```
 
@@ -64,8 +67,24 @@ npm install
 npm run start
 ```
 
+La aplicación estará disponible en `http://localhost:3000`
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GabrieJimenez876/Examen2)
+## Características
+
+- Listado de tareas con paginación
+- Búsqueda en tiempo real
+- Filtrado por estado
+- Diseño responsive
+- Interfaz moderna con Tailwind CSS
+
+## Tecnologías Utilizadas
+
+- React 18
+- TypeScript
+- Tailwind CSS
+- Vite
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GabrieJimenez876/React-GabrielExamen)
 
 
 # Instalacion
